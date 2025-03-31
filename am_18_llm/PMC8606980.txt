@@ -1,0 +1,136 @@
+incontinentia pigmenti 	-8760.0
+NEMO gene deletion 	-8760.0
+skin involvement 	-8760.0
+delayed skin healing 	-8760.0
+cholecystectomy 	-8760.0
+wound dehiscence 	-8760.0
+prolonged wound healing 	-8760.0
+cervical sprain 	-8760.0
+prolonged healing time 	-8760.0
+frequent infections 	-8760.0
+antibiotic therapy 	-8760.0
+learning difficulties 	-8760.0
+special help in school 	-8760.0
+repeated grade 10 	-8760.0
+arrhythmia 	-720.0
+metoprolol 	-720.0
+31 years old 	0.0
+female 	0.0
+normal vision 	0.0
+narrow visual field 	0.0
+no retinal involvement 	0.0
+pointed teeth 	0.0
+sparse hair 	0.0
+nail striae 	0.0
+easy bruising 	0.0
+purplish coloration of feet and legs 	0.0
+no smoking 	0.0
+no secondary smoke exposure 	0.0
+no epilepsy 	0.0
+no mental retardation 	0.0
+working as a supervisor 	0.0
+studying for a second university certificate 	0.0
+SARS-CoV-2 infection 	0.0
+fatigue 	0.0
+sore throat 	0.0
+nasopharyngeal swab 	0.0
+positive PCR 	0.0
+fever 	336.0
+chills 	336.0
+myalgia 	336.0
+asthenia 	336.0
+headaches 	336.0
+anosmia 	336.0
+dysgeusia 	336.0
+pharyngitis 	336.0
+dry cough 	336.0
+dyspnea 	336.0
+anorexia 	336.0
+dizziness 	336.0
+diarrhea 	336.0
+facial rash 	336.0
+hospitalization 	336.0
+oxygen supplementation 	336.0
+corticotherapy 	336.0
+antibiotics 	336.0
+bacterial pneumonia 	336.0
+discharge 	448.0
+relapsing cough 	672.0
+relapsing dyspnea 	672.0
+moxifloxacin 	672.0
+doxycycline 	672.0
+budesonide/formoterol inhalator 	672.0
+acute otitis media 	840.0
+earache 	840.0
+hearing loss 	840.0
+sore throat 	840.0
+nasal congestion 	840.0
+rhinorrhea 	840.0
+headache 	840.0
+myalgia 	840.0
+dizziness 	840.0
+subfebrile 	840.0
+cough improvement 	840.0
+intranasal corticosteroids 	840.0
+cefprozil 	840.0
+rash 	840.0
+levofloxacin 	840.0
+refractory rhinosinusitis 	1008.0
+non-steroidal anti-inflammatory drug 	1008.0
+sinus imaging 	1008.0
+CT angiography 	1224.0
+alveolitis 	1224.0
+no pulmonary embolism 	1224.0
+pulmonologist referral 	1224.0
+corticotherapy 	1224.0
+antibiotics 	1224.0
+symptom persistence 	2016.0
+cognitive deficits 	2016.0
+inability to focus 	2016.0
+quit work 	2016.0
+academic performance drop 	2016.0
+normal cognitive screening 	2016.0
+MoCA score 28/30 	2016.0
+COVID-19 vaccination 	2419.0
+fever 	2419.0
+exacerbation of long-haul symptoms 	2419.0
+headaches 	2419.0
+dizziness 	2419.0
+nausea 	2419.0
+chills 	2419.0
+myalgia 	2419.0
+cough 	2419.0
+dyspnea 	2419.0
+persistent symptoms 	3024.0
+incapacitating fatigue 	3024.0
+continuous headaches 	3024.0
+attention deficit 	3024.0
+memory deficits 	3024.0
+fluctuating dyspnea 	3024.0
+fluctuating cough 	3024.0
+chest pain 	3024.0
+discomfort 	3024.0
+arthralgia 	3024.0
+post-activity polypnea 	3024.0
+increased resting heart rate 	3024.0
+exacerbation of palpitations 	3024.0
+back pain 	3024.0
+leg pain 	3024.0
+dizziness 	3024.0
+hair loss 	3024.0
+diaphoresis 	3024.0
+sleep disorder 	3024.0
+intermittent chills 	3024.0
+intermittent red eyes 	3024.0
+intermittent flushing 	3024.0
+intermittent sore throat 	3024.0
+exacerbation of anxiety 	3024.0
+depression 	3024.0
+obsessive compulsive disorder 	3024.0
+post-traumatic stress disorder 	3024.0
+clinical trial enrollment 	3024.0
+miRNA profiling 	3024.0
+post-exertional stress challenge 	3024.0
+research study referral 	3024.0
+autoantibody panel 	3024.0
+primary immunodeficiency testing 	3024.0

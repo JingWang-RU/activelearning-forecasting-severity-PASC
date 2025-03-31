@@ -1,0 +1,74 @@
+quit smoking 	-360.0
+had tubes placed in ears 	-240.0
+diagnosed with diabetes type 2 	-120.0
+experienced back issues 	-120.0
+diagnosed with ADHD 	-40.0
+experienced head injury 	-40.0
+admitted to hospital 	-24.0
+fever 	-24.0
+ageusia 	-24.0
+anosmia 	-24.0
+hospitalized 	-24.0
+intubated 	-24.0
+diagnosed with COVID-19-related encephalopathy 	-24.0
+diagnosed with superimposed bacterial pneumonia 	-24.0
+experienced vague visual hallucinations 	-24.0
+brain CT/MRI in June 2020 	-24.0
+experienced elaborate visual hallucinations 	-20.0
+experienced delusions 	-20.0
+started on ZyPREXA/olanzapine 	-20.0
+diagnosed with depression 	-20.0
+diagnosed with anxiety 	-20.0
+experienced sleep apnea 	-20.0
+started taking vitamin B12 	-20.0
+started taking Xanax/alprazolam 	-20.0
+started taking Neurontin/gabapentin 	-20.0
+started taking oxycodone and acetaminophen/Percocet 	-20.0
+started taking venlafaxine/Effexor XR 	-20.0
+started taking melatonin 	-20.0
+experienced reduced hearing 	-20.0
+brain CT in July 2020 	-17.0
+brain MRI in July 2020 	-15.0
+repeat CT in mid-July 2020 	-12.0
+experienced cataracts 	-12.0
+transferred to inpatient rehabilitation hospital 	-10.0
+received rehabilitative services on an outpatient basis 	-8.0
+completed cognitive screening 	-5.0
+62 years old 	0.0
+female 	0.0
+discontinued use of ZyPREXA/olanzapine 	0.0
+neuropsychological evaluation 	0.0
+reported memory difficulties 	0.0
+reported attention difficulties 	0.0
+reported executive functioning difficulties 	0.0
+reported language difficulties 	0.0
+reported mood difficulties 	0.0
+diagnosed with major neurocognitive disorder 	0.0
+diagnosed with dysexecutive syndrome 	0.0
+recommended PET brain imaging 	0.0
+recommended speech and language therapeutic services 	0.0
+recommended referral to geriatric psychiatry 	0.0
+recommended trial of cognition-enhancing medication 	0.0
+recommended formal driving evaluation 	0.0
+discontinued use of medication 	0.0
+experienced daytime fatigue 	0.0
+consumed caffeinated soda 	0.0
+consumed coffee 	0.0
+denied alcohol use 	0.0
+denied substance use 	0.0
+completed neuropsychological testing 	0.0
+performed poorly on Wisconsin Card Sorting Task 	0.0
+performed poorly on sentence comprehension task 	0.0
+performed poorly on single-word reading test 	0.0
+performed poorly on math computation test 	0.0
+performed poorly on Trail Making Test 	0.0
+performed poorly on Clock Drawing Test 	0.0
+performed poorly on Bicycle Drawing Test 	0.0
+performed poorly on CPT-3 	0.0
+performed poorly on COWAT 	0.0
+performed poorly on Grooved Pegboard Test 	0.0
+performed poorly on Reading the Mind in the Eyes Test 	0.0
+performed poorly on SHAPS 	0.0
+performed poorly on BAI 	0.0
+performed poorly on BDI-II 	0.0
+performed poorly on Apathy Evaluation Scale 	0.0

@@ -1,0 +1,90 @@
+admitted to the hospital 	-504.0
+shortness of breath 	-504.0
+fevers of unknown origin 	-504.0
+total malaise 	-504.0
+arthropathies 	-504.0
+vomiting 	-504.0
+diarrhea 	-504.0
+headaches 	-504.0
+loss of smell 	-504.0
+COVID-19 diagnosis 	-504.0
+hospitalized 	-504.0
+moved into the ICU 	-504.0
+BIPAP 	-504.0
+Zosym 	-504.0
+Erythromycin 	-504.0
+Remdesavir 	-504.0
+IV steroids 	-504.0
+Dexamethasone 	-504.0
+chest X-ray 	-216.0
+patchy infiltrate in the right lower lobe 	-216.0
+clear left lung 	-216.0
+no pleural effusions 	-216.0
+chest X-ray 	-148.0
+moderate bilateral patchy infiltrates 	-148.0
+no pleural abnormality or pneumothorax 	-148.0
+discharged 	-42.0
+prescribed daily evening nebulizer treatments 	-42.0
+Albuterol Sulfate 	-42.0
+COVID-19 long hauler 	-42.0
+requested a compassionate use trial 	-42.0
+55 years old 	0.0
+male 	0.0
+Caucasian 	0.0
+Zofin treatment 	0.0
+extreme shortness of breath 	0.0
+viral pneumonitis 	0.0
+acute respiratory distress 	0.0
+meningitis/encephalitis 	0.0
+hyperglycemia 	0.0
+chest X-ray 	0.0
+bilateral pneumonia 	0.0
+Zofin infusion 	0.0
+oxygen saturation 	0.0
+95% 	0.0
+laboratory and biomarker testing 	0.0
+blood collection 	0.0
+standard blood panels 	0.0
+D-Dimer 	0.0
+CRP 	0.0
+IL2 	0.0
+IL6 	0.0
+TNFα 	0.0
+Zofin infusion 	96.0
+oxygen saturation 	96.0
+97-98% 	96.0
+feeling much better 	96.0
+improved exercise tolerance 	96.0
+able to go up two flights of stairs 	96.0
+improved ability to lie flat to sleep 	96.0
+improved overall sense of well-being 	96.0
+shortness of breath 	96.0
+dyspnea with exertion 	96.0
+no general malaise 	96.0
+fatigued following activities of daily living 	96.0
+wide awake 	96.0
+more vibrant 	96.0
+Zofin infusion 	192.0
+oxygen saturation 	192.0
+97-98% 	192.0
+decreased air hungriness 	192.0
+able to sleep flat without difficulty 	192.0
+able to exercise to fatigue 	192.0
+no desaturation 	192.0
+feeling 75% back to normal 	192.0
+big improvements 	336.0
+improvements in ability to sleep 	336.0
+return to normal life activities 	336.0
+noticeable changes in ability to exercise 	432.0
+no fatigue 	432.0
+no desaturation 	432.0
+feeling fully recovered 	504.0
+strong 	504.0
+upbeat 	504.0
+happy 	504.0
+unlimited in activity 	504.0
+at work 	504.0
+chest X-ray 	672.0
+well-inflated and clear lungs 	672.0
+no acute cardiopulmonary disease 	672.0
+no abnormality 	672.0

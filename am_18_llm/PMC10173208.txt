@@ -1,0 +1,63 @@
+fully vaccinated with a booster shot 	-672.0
+mild case of COVID-19 	-672.0
+treated with Molnupiravir 	-672.0
+recovered from COVID-19 	-672.0
+progressive exertional dyspnea 	-216.0
+dry cough 	-216.0
+fatigue 	-216.0
+5-kg weight loss 	-216.0
+exertional dyspnea 	-192.0
+occasional dry cough 	-192.0
+mild peripheral oxygen desaturation 	-192.0
+SpO2 at 93% on room air 	-192.0
+body mass index 23.9 kg/m2 	-192.0
+bilateral diffuse alveolar opacities 	-192.0
+low forced vital capacity 	-192.0
+forced expiratory volume in one second 	-192.0
+diagnosed with post-COVID-19 pulmonary sequelae 	-192.0
+treated with oral methylprednisolone 	-192.0
+44 years old 	0.0
+male 	0.0
+non-smoker 	0.0
+unremarkable past history 	0.0
+admitted to the outpatient long COVID-19 clinic 	0.0
+no improvement 	0.0
+referred to our hospital 	0.0
+normal vital signs 	0.0
+SpO2 90% on room air 	0.0
+bilateral fine crackles on inspiration 	0.0
+leukocytosis 	0.0
+neutrophils 78.8% 	0.0
+lymphocytes 15.1% 	0.0
+liver enzymes normal 	0.0
+kidney function normal 	0.0
+C-reactive protein 28 mg/L 	0.0
+procalcitonin 0.18 ng/mL 	0.0
+lactate dehydrogenase 628 U/L 	0.0
+autoantibody tests negative 	0.0
+increased pulmonary opacities 	0.0
+crazy-paving pattern with GGOs 	0.0
+thickened reticular lines 	0.0
+lobular sparing 	0.0
+milky appearance of BLF 	0.0
+PAS staining positive 	0.0
+diagnosis of PAP 	0.0
+lung lavage indicated 	0.0
+written informed consent obtained 	0.0
+intubated with a double-lumen endotracheal tube 	24.0
+bronchoscopy 	24.0
+preoxygenation with FiO2 100% 	24.0
+saline 0.9% instilled into the left lung 	24.0
+tapotement and vibration 	24.0
+lavage fluid turned from opaque to clear 	24.0
+approximate total of 15 L of saline 0.9% used 	24.0
+residual water aspirated 	24.0
+lung re-ventilated with FiO2 100% 	24.0
+transferred to the recovery unit 	24.0
+extubated 	24.0
+clinically stable 	48.0
+SpO2 increasing to 96% at room air 	48.0
+reduction in lung opacities 	48.0
+mediastinal left lung zone had the least improvement 	48.0
+returned to daily work 	168.0
+stable opacities in the right lung 	168.0

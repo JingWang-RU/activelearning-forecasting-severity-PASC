@@ -1,0 +1,72 @@
+hypertension 	-672.0
+coronary heart disease 	-672.0
+dyslipidaemia 	-672.0
+aspirin 	-672.0
+statin 	-672.0
+persistent physical weakness 	-38.0
+COVID-19 	-38.0
+SARS-CoV-2 	-38.0
+exposure to domesticated pigeons 	-14.0
+fever 	-12.0
+shivering 	-12.0
+cough 	-12.0
+palpitations 	-12.0
+weakness 	-12.0
+nausea 	-12.0
+antipyretic agents 	-12.0
+moxifloxacin 	-10.0
+abdominal pain 	-6.0
+diarrhoea 	-6.0
+hospitalized 	-6.0
+computed tomography scan 	-5.0
+bronchitis 	-5.0
+thickening of the walls of the bronchial tubes 	-5.0
+APMV-1 	-4.0
+mNGS 	-4.0
+sputum sample 	-3.0
+throat swab 	-3.0
+anal swab 	-3.0
+PPMV-1 	-2.0
+SARS-CoV-2 	-2.0
+virus isolation 	-1.0
+immunofluorescence assay 	-1.0
+66 years old 	0.0
+male 	0.0
+admitted to the hospital 	0.0
+PPMV-1-202302 	13.0
+Vero cells 	13.0
+SARS-CoV-2 genome 	14.0
+Omicron variant BF.7.14 	14.0
+phylogenetic analysis 	14.0
+genotype VI.2.1.1.2.2 	14.0
+112RRQKRF117 motif 	14.0
+high virulence 	14.0
+NHBE cells 	15.0
+SEM 	15.0
+TEM 	15.0
+virus particles 	15.0
+cytopathic effects 	15.0
+CPEs 	15.0
+virus titres 	15.0
+TCID50 	15.0
+neutralizing antibody 	16.0
+neutralizing antibody 	23.0
+neutralizing antibody 	28.0
+neutralizing antibody 	31.0
+long COVID 	38.0
+post-COVID-19 syndrome 	38.0
+synergistic effect 	38.0
+compromised immunity 	38.0
+increased severity 	38.0
+previous infection with SARS-CoV-2 	38.0
+potentially causal relationship 	38.0
+cross-species transmission 	38.0
+viral and host factors 	38.0
+effective intervention measures 	38.0
+epidemiology 	38.0
+variation in pigeons 	38.0
+discharged 	64.0
+recovered 	64.0
+enhanced surveillance 	64.0
+increased risk of severe disease 	64.0
+population with long COVID 	64.0

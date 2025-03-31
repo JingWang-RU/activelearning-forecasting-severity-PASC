@@ -1,0 +1,94 @@
+SARS-CoV-2 infection 	-504.0
+history of SARS-CoV-2 infection 	-504.0
+positive real-time reverse transcriptase-polymerase chain reaction (RT-PCR) test 	-504.0
+53 years old 	0.0
+female 	0.0
+postmenopausal 	0.0
+no previous history of cardiovascular diseases 	0.0
+no prior COVID vaccination 	0.0
+pleuritic chest pain 	0.0
+lung computed tomography (CT) scan 	0.0
+blood pressure of 110/70 mm Hg 	0.0
+pulse rate of 100 beats/min 	0.0
+respiratory rate of 25/min 	0.0
+temperature of 37.2°C 	0.0
+oxygen saturation of 93% 	0.0
+ECG revealed sinus tachycardia 	0.0
+D-dimer level of 1358 ng/mL 	0.0
+25-OH VitD3 level of 8.5 ng/mL 	0.0
+severe deficiency of 25-OH VitD3 	0.0
+normal blood cell composition 	0.0
+normal troponin level 	0.0
+normal CK-MB level 	0.0
+normal FDP level 	0.0
+normal ESR level 	0.0
+normal CRP level 	0.0
+normal NT-proBNP level 	0.0
+transthoracic echocardiography (TTE) 	0.0
+left and right ventricles (LV & RV) were normal in size and function 	0.0
+preserved systolic function 	0.0
+abnormal septal motion (septal bounce) 	0.0
+no evidence of valvular heart disease 	0.0
+no abnormal patterns in the pericardium or the myocardium 	0.0
+deep vein thrombosis (DVT) excluded 	0.0
+pulmonary embolism excluded 	0.0
+discharged 	24.0
+Rivaroxaban prescribed 	24.0
+Colchicine prescribed 	24.0
+Pantoprazole prescribed 	24.0
+VitD3 injection prescribed 	24.0
+second SARS-CoV-2 infection 	408.0
+39°C fever 	408.0
+cough 	408.0
+fatigue 	408.0
+excessive perspiration 	408.0
+muscular pain 	408.0
+persistent chest pain 	408.0
+TTE revealed mild pericardial effusion 	408.0
+elevated D-dimer level 	408.0
+ferritin level of 246 ng/mL 	408.0
+IL-6 level of 9.5 pg/mL 	408.0
+Ibuprofen prescribed 	408.0
+Prednisolone prescribed 	408.0
+cardiac magnetic resonance imaging (CMR) 	504.0
+myopericarditis confirmed 	504.0
+pericardial inflammation 	504.0
+Aspirin prescribed 	504.0
+Colchicine prescribed 	504.0
+Metoprolol succinate prescribed 	504.0
+25 mg Prednisolone prescribed 	504.0
+chest pain resolved 	936.0
+exertional chest pain 	936.0
+shortness of breath 	936.0
+second CMR 	1092.0
+active inflammation in the pericardium and myocardium 	1092.0
+septal bounce 	1092.0
+normal pericardial thickness 	1092.0
+active perimyocarditis 	1092.0
+transient constrictive pericarditis (CP) 	1092.0
+HBsAg test negative 	1092.0
+anti-HBC IgM test negative 	1092.0
+HCV RNA test negative 	1092.0
+HIV Elisa test negative 	1092.0
+tuberculin test negative 	1092.0
+rheumatologic factors tested 	1092.0
+FANA positive 	1092.0
+AMA positive 	1092.0
+FANA titer of 1/160 	1092.0
+fine speckled nuclear pattern 	1092.0
+CP-targeted therapy started 	1200.0
+methylprednisolone prescribed 	1200.0
+IVIG prescribed 	1200.0
+Mycophenolate mofetil prescribed 	1200.0
+Eplerenone prescribed 	1200.0
+Losartan prescribed 	1200.0
+follow-up echocardiograms 	1308.0
+thickened pericardium with calcification 	1308.0
+no pericardial effusion 	1308.0
+no sign of active CP 	1308.0
+compressive effect 	1308.0
+EF of 50-55% 	1308.0
+Prednisolone tapered to 12.5 mg daily 	1308.0
+exertional chest pain 	1308.0
+shortness of breath 	1308.0
+NYHA-class II-III 	1308.0

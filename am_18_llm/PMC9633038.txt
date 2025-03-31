@@ -1,0 +1,61 @@
+history of cardiovascular disease 	-630.0
+hospitalized for palpitations 	-630.0
+premature ventricular contractions 	-630.0
+first Pfizer SARS-CoV-2 vaccination 	-570.0
+cardiac magnetic resonance 	-570.0
+borderline cardiomegaly 	-570.0
+left ventricle enlargement 	-570.0
+ejection fraction 	-570.0
+catheter ablation procedures 	-570.0
+symptoms improved 	-570.0
+echocardiogram 	-570.0
+trace mitral regurgitation 	-570.0
+tricuspid regurgitation 	-570.0
+pericardial effusion 	-570.0
+GeneCompass genetic analyses 	-570.0
+mutations at potential CVD/diabetes mellitus susceptibility loci 	-570.0
+second vaccination 	-546.0
+symptoms resurfaced 	-546.0
+hospital admissions 	-546.0
+dual cardiac ablations 	-546.0
+Ibuprofen prescribed 	-474.0
+pericarditis 	-474.0
+tested positive for SARS-CoV-2 	-462.0
+took vitamin D 	-462.0
+presented with chest pain 	-462.0
+joint pain 	-462.0
+dermatitis 	-462.0
+symptoms persisted 	-462.0
+35 years old 	0.0
+female 	0.0
+Russian 	0.0
+admitted to the hospital 	0.0
+fatigue 	0.0
+chest pain 	0.0
+joint pain 	0.0
+dyspnea 	0.0
+family history of diabetes 	0.0
+high blood pressure 	0.0
+cardiac cirrhosis 	0.0
+differential diagnosis 	0.0
+long COVID-19 	0.0
+arthritis 	0.0
+systemic lupus erythematosus 	0.0
+antinuclear antibody immunofluorescence assay screening 	0.0
+autoimmune antibodies 	0.0
+double-stranded DNA antibody test 	0.0
+absence of DS antibody 	0.0
+normal levels of alkaline phosphatase 	0.0
+aspartate transaminase 	0.0
+alanine transaminase 	0.0
+tested negative for antineutrophil cytoplasmic antibodies 	0.0
+vasculitis proteinase 3 	0.0
+myeloperoxidase 	0.0
+normal hormonal and white blood cell levels 	0.0
+elevated low-density lipoprotein cholesterol 	0.0
+progressively reduced high-density lipoprotein cholesterol 	0.0
+prescribed statin medication 	0.0
+did not take statin medication 	0.0
+switched to nonvegetarian diet 	0.0
+takes vitamin D supplement 	0.0
+remains under observation 	24.0

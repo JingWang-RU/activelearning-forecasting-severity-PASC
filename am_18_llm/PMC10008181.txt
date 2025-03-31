@@ -1,0 +1,60 @@
+COVID-19 infection 	-672.0
+treated as an outpatient 	-672.0
+recovered from COVID-19 	-656.0
+headache 	-73.0
+blurring of vision 	-73.0
+facial deviation 	-73.0
+inability to speak 	-73.0
+right-sided hemiplegia 	-72.0
+32 years old 	0.0
+male 	0.0
+admitted to the hospital 	0.0
+occasional alcohol consumption 	0.0
+no history of smoking 	0.0
+no history of medication use 	0.0
+no family history of thrombotic events 	0.0
+Glasgow Coma Score of 11/15 	0.0
+aphasic 	0.0
+afebrile 	0.0
+not pale 	0.0
+not tachypneic 	0.0
+blood pressure of 103/59 mmHg 	0.0
+pulse rate of 59 beats per minute 	0.0
+respiratory rate of 18 breaths per minute 	0.0
+oxygen saturation of 96% 	0.0
+pupils were isocoric, constricted, and reactive to light 	0.0
+right-sided hemihyperhidrosis of the face 	0.0
+right-sided hemiplegia grade of 0/5 in the arm 	0.0
+right-sided hemiplegia grade of 1/5 in the leg 	0.0
+global aphasia 	0.0
+normal leukocyte count 	0.0
+normal hemoglobin 	0.0
+normal platelet count 	0.0
+normal creatinine 	0.0
+good urine output 	0.0
+total cholesterol of 4.5 mmol/L 	0.0
+alanine transferase of 41.8 U/L 	0.0
+sinus rhythm 	0.0
+no right to left shunt 	0.0
+no cardiac thrombus 	0.0
+no valvular pathology 	0.0
+ischemic infarction in the left parietal lobe 	0.0
+ischemic infarction in the left basal ganglia 	0.0
+involving the proximal left middle cerebral artery territory 	0.0
+significant edema 	0.0
+midline shift of 0.5 cm 	0.0
+aspirin daily 75 mg 	0.0
+atorvastatin 20 mg 	0.0
+subcutaneous heparin 5,000 units twice daily 	0.0
+elevated C-reactive protein 	24.0
+elevated troponin 	24.0
+elevated D-dimer 	24.0
+normal partial thromboplastin time 	24.0
+normal international normalized ratio 	24.0
+negative rapid antigen test for COVID-19 	24.0
+thromboembolic occlusion of the left middle cerebral artery 	24.0
+thromboembolic occlusion of the left internal carotid artery 	24.0
+thromboembolic occlusion of the right main pulmonary artery 	24.0
+thromboembolism in segmental and subsegmental branches of the right upper, middle, and lower lobe pulmonary arteries 	24.0
+sudden cardiac arrest 	48.0
+death 	48.0

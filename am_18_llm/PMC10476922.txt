@@ -1,0 +1,170 @@
+history of polyarticular gout 	-8760.0
+diagnosed with COVID-19 	-336.0
+severe COVID-19 	-336.0
+encephalopathy 	-336.0
+generalised motor weakness 	-336.0
+multifocal magnetic resonance imaging findings 	-336.0
+diagnosed with ADEM 	-288.0
+received intravenous immunoglobulin 	-288.0
+septic shock 	-288.0
+inotropic support 	-288.0
+acute kidney injury 	-288.0
+haemodialysis 	-288.0
+deranged liver function 	-288.0
+provoked segmental pulmonary embolism 	-288.0
+polyarticular gout flare 	-288.0
+transferred out of intensive care 	-216.0
+minimal neurological recovery 	-216.0
+Glasgow Coma Scale score of E4VTM1 	-216.0
+no consistent visual pursuit 	-216.0
+vocalisations 	-216.0
+functional communication 	-216.0
+encephalopathy improved 	-168.0
+scored 9/23 on the Coma Recovery Scale-Revised 	-168.0
+followed instructions inconsistently 	-156.0
+score improved to 10/23 on the Coma Recovery Scale-Revised 	-105.0
+nerve conduction study 	-99.0
+axonal sensorimotor polyneuropathy 	-99.0
+critical illness polyneuropathy 	-99.0
+ceased feeding through the nasogastric tube 	-24.0
+tolerated a blended diet 	-24.0
+59 years old 	0.0
+male 	0.0
+Asian 	0.0
+migrant worker 	0.0
+admitted to the hospital 	0.0
+transferred to inpatient rehabilitation facility 	0.0
+physiatrist-led transdisciplinary rehabilitation programme 	0.0
+three hours per day of rehabilitation therapies 	0.0
+physiotherapy 	0.0
+occupational therapy 	0.0
+speech therapy 	0.0
+psychology reviews 	0.0
+fortnightly dietician reviews 	0.0
+weekly multidisciplinary conferences 	0.0
+functional goal setting 	0.0
+Functional Independence Measure 	0.0
+cognitive and behavioural impairments 	0.0
+global and severe cognitive deficits 	0.0
+sustained attention for 10–15 minutes 	0.0
+disoriented 	0.0
+slow information processing speed 	0.0
+followed one-step commands only 	0.0
+immediate information recall impaired 	0.0
+Abbreviated Mental Test score of 1/10 	0.0
+participation limited 	0.0
+attention deficits 	0.0
+therapy conducted in a quiet environment 	0.0
+coaxing required 	0.0
+cognitive demands reduced 	0.0
+task simplification 	0.0
+increased time for information processing 	0.0
+episodes of irritability and agitation 	0.0
+time-out-on-the-spot techniques 	0.0
+redirection 	0.0
+daily reality orientation 	0.0
+flexibility of therapy timings 	0.0
+sleep wake regulation 	0.0
+quadriparesis 	0.0
+disproportionate spastic weakness 	0.0
+lower limbs 	0.0
+Medical Research Council grade 2/5 	0.0
+upper limbs 	0.0
+Medical Research Council scale 3/5 	0.0
+periventricular lesions 	0.0
+motor recovery complicated 	0.0
+critical illness polyneuropathy 	0.0
+steroid myopathy 	0.0
+dependent in bed mobility 	0.0
+poor sitting balance 	0.0
+required maximum assistance for activities of daily living 	0.0
+physical therapy 	0.0
+sitting balance 	0.0
+sitting tolerance 	0.0
+verticalisation via a tilt table 	0.0
+task-specific training 	0.0
+mirror visual feedback 	0.0
+orthostatic hypotension 	0.0
+symptomatic postural hypotension 	0.0
+severe deconditioning 	0.0
+prolonged immobilisation 	0.0
+blood pressure dropped 	0.0
+fluid boluses administered 	0.0
+bilateral thigh-length elastic compression stockings 	0.0
+abdominal binders 	0.0
+swallowing and communication 	0.0
+mild oropharyngeal dysphagia 	0.0
+prolonged intubation 	0.0
+tracheostomy 	0.0
+functional communicative ability 	0.0
+expressive speech 	0.0
+receptive speech 	0.0
+nutritional/metabolic parameters 	0.0
+high caloric diet 	0.0
+oral nutritional supplements 	0.0
+urinary incontinence 	0.0
+recurrent nosocomial infections 	0.0
+catheter-associated urinary tract infections 	0.0
+Clostridium difficile diarrhoea 	0.0
+recurrent polyarticular gout flares 	0.0
+left hip 	0.0
+both knees 	0.0
+ankles 	0.0
+first metatarsal phalangeal joints 	0.0
+acute and chronic lower body pain 	0.0
+intermittent lower limb pain 	0.0
+back pain 	0.0
+impaired sensory discrimination 	0.0
+severe cognitive deficits 	0.0
+multifactorial pain 	0.0
+polyarticular gout flares 	0.0
+joint stiffness 	0.0
+axonal sensorimotor polyneuropathy 	0.0
+primary neurological insult 	0.0
+central neuropathic pain 	0.0
+bilateral adductor spasticity 	0.0
+restricted hip abduction 	0.0
+restricted hip flexion 	0.0
+pain managed with simple analgesia 	0.0
+gabapentin 	0.0
+physical modalities contraindicated 	0.0
+insensate skin 	0.0
+cognitive impairment 	0.0
+video fluoroscopic swallowing study 	3.0
+no aspiration 	3.0
+resumed a normal diet 	3.0
+turbid straw-coloured fluid 	10.0
+negatively birefringent crystals 	10.0
+treated with oral prednisolone 	10.0
+uric acid-lowering therapy 	10.0
+febuxostat 	10.0
+renal impairment 	10.0
+mild immobilisation-related hypercalcemia 	17.0
+decubitus ulceration 	47.0
+severe immobility 	47.0
+prolonged recumbency 	47.0
+6-cm × 4-cm Grade 3 sacral ulcer 	47.0
+limited mobilisation efforts 	47.0
+bed-turning 	47.0
+pressure relief mattresses 	47.0
+pressure offloading 	47.0
+indwelling urinary catheter 	47.0
+decubitus ulcer 	47.0
+nadir albumin level of 24 g/L 	48.0
+nadir anaemia of 6.3 mg/L 	48.0
+AMT improved to 3/10 	72.0
+motivation and cooperation improved 	72.0
+supportive counselling 	72.0
+mobile digital media tools 	72.0
+wound healing 	72.0
+regained spontaneous voiding 	72.0
+dependent on diapers 	72.0
+tolerated sitting at the edge of the bed 	80.0
+mobilised in a tilt-in-space wheelchair 	80.0
+serum uric acid levels decreased 	120.0
+lost 14.4 kg 	216.0
+body mass index 21.6 kg/m2 	216.0
+improved to 30 g/L 	216.0
+improved to 10.2 mg/L 	216.0
+normalised during rehabilitation 	216.0
+discharged 	277.0

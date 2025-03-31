@@ -1,0 +1,79 @@
+mild COVID-19 	-2160.0
+hypertension 	-2160.0
+hyperlipidemia 	-2160.0
+diabetes mellitus type II 	-2160.0
+no history of smoking 	-2160.0
+no history of lung disease 	-2160.0
+62 years old 	0.0
+male 	0.0
+admitted to the hospital 	0.0
+dyspnea 	0.0
+high-flow oxygen therapy 	0.0
+fraction of inspired oxygen of 80% 	0.0
+SARS-CoV-2 PCR negative 	0.0
+chest CT scan 	0.0
+bilateral ground-glass opacities 	0.0
+bronchiectasis 	0.0
+subpleural reticular changes 	0.0
+pulmonary fibrosis 	0.0
+treatment with high-dose glucocorticoids 	0.0
+dexamethasone 	0.0
+prednisolone 	0.0
+mycophenolate mofetil 	0.0
+lung function worsened 	336.0
+forced expiratory volume 	336.0
+total lung capacity 	336.0
+acute respiratory distress syndrome 	336.0
+intubation 	336.0
+venovenous extracorporeal membrane oxygenation 	672.0
+lung transplantation 	744.0
+histopathological examination 	744.0
+lung explant 	744.0
+diffuse interstitial dendriform ossification 	744.0
+lamellar bone 	744.0
+fatty marrow 	744.0
+focal hematopoiesis 	744.0
+diffuse interstitial fibrosis 	744.0
+bronchiolar metaplasia 	744.0
+mucinous metaplasia 	744.0
+transitional cell metaplasia 	744.0
+traction bronchiectasis 	744.0
+bronchiolar mucostasis 	744.0
+fibrinous pleuritic 	744.0
+multifocal alveolar hemorrhages 	744.0
+hemosiderin-laden macrophages 	744.0
+proliferation of interstitial and intra-alveolar bronchiogenic giant cells 	744.0
+thyroid transcription factor 1 positivity 	744.0
+pulmonary remodeling 	744.0
+interstitial collagen increase 	744.0
+elastic fiber disarray 	744.0
+proliferative diffuse alveolar damage 	744.0
+M2-polarized CD163+ and CD206+ macrophages 	744.0
+phospho-ERK expression 	744.0
+neoangiogenesis 	744.0
+fibrin staining 	744.0
+intra-alveolar fibrinous exudates 	744.0
+residual exudative diffuse alveolar damage 	744.0
+no microthrombi 	744.0
+lymphocytes predominantly T cells 	744.0
+exhausted phenotype 	744.0
+PD1 positivity 	744.0
+cytotoxic T cells 	744.0
+T-helper 1 subsets 	744.0
+T-helper 2 subsets 	744.0
+T-regulatory cells 	744.0
+gammadelta T cells 	744.0
+plasma cells polytypic 	744.0
+no plasmablast excess 	744.0
+mast cells increased 	744.0
+SARS-CoV-2 viral load 	744.0
+N-Gene Ct value 36.5 	744.0
+droplet digital PCR 	744.0
+N1 gene 0 copies/μL 	744.0
+N2 gene 0.0307 copies/μL 	744.0
+immunohistochemistry for SARS-CoV-2 nucleocapsid 	744.0
+focal endothelial deposition 	744.0
+arterioles 	744.0
+discharged 	2880.0
+rehabilitative program 	2880.0
+forced expiratory volume improved 	2880.0

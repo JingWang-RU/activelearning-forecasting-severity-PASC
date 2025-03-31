@@ -1,0 +1,62 @@
+COVID-19 pneumonia 	-672.0
+hospitalisation 	-672.0
+intensive care 	-672.0
+cough 	-672.0
+blood-tinged sputum 	-672.0
+dyspnea 	-672.0
+chest pain 	-672.0
+informed consent 	-672.0
+ Institutional Review Board approval 	-672.0
+discharge 	-96.0
+cough persisted 	-96.0
+dyspnea persisted 	-96.0
+other symptoms resolved 	-96.0
+treatment with antihistamines 	-72.0
+treatment with codeine 	-72.0
+treatment with inhaled corticosteroids 	-72.0
+40 years old 	0.0
+male 	0.0
+admitted to the hospital 	0.0
+referred to cough clinic 	0.0
+persistent cough 	0.0
+daily cough 	0.0
+intermittent breathlessness 	0.0
+throat discomfort 	0.0
+urge-to-cough sensation 	0.0
+cough severity numerical rating scale score 9 	0.0
+Cough Hypersensitivity Questionnaire score 16 	0.0
+Leicester Cough Questionnaire score 5.6 	0.0
+Medical Research Council breathlessness scale score 3 	0.0
+physical examination 	0.0
+chest computed tomography 	0.0
+spirometric findings 	0.0
+fractional exhaled nitric oxide test 	0.0
+blood tests 	0.0
+sputum microbiology 	0.0
+treatment with gabapentin 100 mg bid 	0.0
+treatment with amitriptyline 10 mg once a day 	0.0
+treatment with azithromycin 250 mg every other day 	0.0
+treatment with prednisolone 15 mg bid 	0.0
+low-dose proton pump inhibitor 	0.0
+cough suppression techniques 	0.0
+vocal hygiene 	0.0
+continuous cough monitoring 	0.0
+challenge laryngoscopy 	8.0
+grade 1 glottic adduction 	8.0
+grade 2 supraglottic constriction 	8.0
+laryngeal hypersensitivity 	8.0
+laryngeal dysfunction 	8.0
+gabapentin increased to 300 mg bid 	8.0
+other drugs tapered 	8.0
+cough counts about 500/day 	8.0
+maximum daily cough count 1793 	8.0
+cough worsened by talking 	8.0
+cough worsened by motion 	8.0
+cough worsened by physical activity 	8.0
+gabapentin increased to 300 mg 3 times a day 	18.0
+fatigue 	18.0
+eyelid twitching 	18.0
+peripheral tingling pain 	18.0
+gabapentin dose decreased to 100 mg bid 	35.0
+cough not aggravated 	35.0
+follow-up 	42.0

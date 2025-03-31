@@ -1,0 +1,58 @@
+controlled bronchial asthma 	-672.0
+nonproductive cough 	-96.0
+fever 	-96.0
+exertional dyspnea 	-96.0
+RT-PCR test result for SARS-CoV-2 was positive 	-96.0
+supplemental oxygen by nasal cannula at 5 liters/minute 	-96.0
+Remdesivir 	-96.0
+Dexamethasone 	-96.0
+Tocilizumab 	-96.0
+multiple antibiotics 	-96.0
+increasing oxygen requirement 	-48.0
+oxygen partial pressure (PaO2)/fraction of inspired oxygen (Fio2) ratio consistently less than 150 	-48.0
+persistent dyspnea 	-48.0
+transferred to our institution 	-48.0
+acute respiratory failure from severe COVID-19 pneumonia and asthma exacerbation 	-48.0
+high-flow nasal cannula (HFNC) with 60% Fio2 at 35 liters/minute airflow 	-48.0
+hydrocortisone 	-48.0
+inhaled budesonide-formoterol 	-48.0
+weaned from HFNC to low-flow nasal cannula 	-24.0
+persistent bothersome cough 	-24.0
+exertional dyspnea 	-24.0
+progression of infiltrates on serial chest X-ray 	-24.0
+chest computed tomography (CT) scan 	-24.0
+extensive intralobular septal thickening and consolidation 	-24.0
+methylprednisolone pulse therapy 	-24.0
+pulmonary rehabilitation 	-24.0
+incentive spirometry 	-24.0
+deep breathing exercises with scapular retraction and relaxation techniques 	-24.0
+51 years old 	0.0
+female 	0.0
+Filipino 	0.0
+admitted to the hospital 	0.0
+discharged 	40.0
+Nintedanib 150 mg/tab twice per day 	40.0
+6-minute walk test (6MWT) 	40.0
+Borg Dyspnea Scale 	40.0
+spirometry with body plethysmography and diffusing capacity for carbon monoxide (DLCO) 	40.0
+severe dyspnea (Borg 7) 	40.0
+6MWD of 295 meters 	40.0
+oxygen support at 2 liters/minute 	40.0
+decreased total lung capacity (TLC) at 52% predicted 	40.0
+DLCO was severely reduced at 28% predicted 	40.0
+CT scoring showed severe lung involvement (CT score: 18) 	40.0
+dysphagia 	40.0
+frontal headache 	40.0
+upper-extremity numbness 	40.0
+Borg Scale decreased to 4 	72.0
+6MWD increased to 434 meters 	72.0
+oxygen support at 2 liters/min 	72.0
+TLC improved to 64% predicted 	72.0
+DLCO improved to 36% predicted 	72.0
+repeat chest CT scan demonstrated regressing fibrosis 	72.0
+pulmonary function had returned to normal 	216.0
+DLCO remained moderately reduced (59% predicted) 	216.0
+6MWD (457 meters) 	216.0
+CT score (15) 	216.0
+completely weaned off from oxygen support 	216.0
+resolved after treatment discontinuation 	216.0

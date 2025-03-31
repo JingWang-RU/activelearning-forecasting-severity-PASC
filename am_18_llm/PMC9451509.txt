@@ -1,0 +1,54 @@
+general fatigue 	-840.0
+malaise 	-840.0
+chest pain 	-840.0
+low back pain 	-840.0
+symptomatic medication 	-840.0
+blood tests 	-840.0
+proinflammatory state 	-840.0
+elevated erythrocyte sedimentation rate 	-840.0
+increased C-reactive protein 	-840.0
+normocytic anaemia 	-840.0
+mild SARS-CoV-2 infection 	-720.0
+combined oral contraception pill 	-720.0
+19 years old 	0.0
+female 	0.0
+Caucasian 	0.0
+admitted to the emergency department 	0.0
+no cough 	0.0
+no shortness of breath 	0.0
+no myalgias 	0.0
+no anorexia 	0.0
+no significant weight loss 	0.0
+no night sweats 	0.0
+no arthralgia 	0.0
+no macroscopic loss of blood 	0.0
+no menstrual cycle irregularities 	0.0
+no fever 	0.0
+vaccinated pet 	0.0
+no contact with ill people 	0.0
+no travel outside of Portugal 	0.0
+unprotected sexual intercourse 	0.0
+family history of rheumatoid arthritis 	0.0
+anaemia 	0.0
+proinflammatory state 	0.0
+unremarkable electrocardiogram 	0.0
+unremarkable computed tomography of the thorax 	0.0
+admitted for further work-up and management 	0.0
+elevation of acute phase proteins 	0.0
+no signs of specific infectious or autoimmune disease 	0.0
+normal protein electrophoresis 	0.0
+Takayasu arteritis 	0.0
+large vessel vasculitis 	0.0
+concentric and diffuse thickening of the descending thoracic and abdominal aorta 	168.0
+thickening of the proximal half of both common iliac and renal arteries 	168.0
+blurring of perivascular fat 	168.0
+inflammatory activity on FDG-PET 	173.0
+started prednisolone 	173.0
+persistent low-grade fever 	173.0
+improved symptoms 	176.0
+decreased CRP value 	176.0
+resolved fever 	176.0
+discharged on prednisolone taper 	240.0
+complete resolution of symptoms 	720.0
+normalization of inflammatory values 	720.0
+normalization of anaemia 	720.0

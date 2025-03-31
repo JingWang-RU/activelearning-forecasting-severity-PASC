@@ -1,0 +1,64 @@
+cough 	-720.0
+diarrhea 	-720.0
+SARS-CoV-2 RT-PCR assay positive 	-720.0
+nasopharyngeal swab 	-720.0
+repeated nasopharyngeal RT-PCR test negative 	-710.0
+asymptomatic 	-710.0
+recurrence of viral illness-related symptoms 	-30.0
+loss of smell 	-30.0
+loss of taste 	-30.0
+nasopharyngeal antigen test for SARS-CoV-2 positive 	-30.0
+fatigue 	-16.0
+anxiety 	-16.0
+palpitations 	-16.0
+diarrhea 	-16.0
+vertigo 	-16.0
+perioral tingling 	-16.0
+42 years old 	0.0
+female 	0.0
+admitted to the hospital 	0.0
+hospitalized 	0.0
+progressive headache 	0.0
+dizziness 	0.0
+anxiety 	0.0
+palpitations 	0.0
+diarrhea 	0.0
+panic attacks 	0.0
+neurological examination 	0.0
+hyperreflexia in the lower limbs 	0.0
+malaise 	0.0
+routine blood tests 	0.0
+basic immunological and serological screening 	0.0
+anti-neuronal antibodies 	0.0
+brain magnetic resonance 	0.0
+electroencephalography 	0.0
+psychological and psychiatric assessment 	0.0
+increased tension 	0.0
+depression 	0.0
+24-h electrocardiography (ECG) monitoring 	0.0
+sinus tachycardia 	0.0
+transthoracic echocardiogram 	0.0
+proctoscopy 	0.0
+stool studies 	0.0
+Candida glabrata 	0.0
+fluconazole 	0.0
+antigen and RT-PCR tests for SARS-CoV-2 negative 	0.0
+detectable serum nucleocapsid immunoglobulin G (IgG) antibodies against SARS-CoV-2 	0.0
+CSF analysis 	0.0
+mild elevation of protein 	0.0
+mild elevation of lactate dehydrogenase (LDH) 	0.0
+RT-PCR for SARS-CoV-2 RNA in the CSF positive 	0.0
+pulse therapy with methylprednisolone 	0.0
+symptomatic therapy 	0.0
+intravenous multivitamin solutions 	0.0
+alprazolam 	0.0
+beta-blocker 	0.0
+physiotherapy 	0.0
+psychological support 	0.0
+repeated lumbar puncture 	8.0
+mild elevation of proteins 	8.0
+mild elevation of LDH 	8.0
+repeat RT-PCR for SARS-CoV-2 from the CSF negative 	8.0
+symptoms alleviated 	8.0
+headache 	8.0
+anxiety 	8.0

@@ -1,0 +1,69 @@
+COVID-19 vaccination 	-504.0
+low grade fever 	-168.0
+generalized body weakness 	-168.0
+sore throat 	-168.0
+anosmia 	-168.0
+headache 	-168.0
+nasopharyngeal swab positive for SARS-CoV-2 	-168.0
+azithromycin 	-168.0
+chloroquine 	-168.0
+zinc 	-168.0
+vitamin C 	-168.0
+analgesics 	-168.0
+anti-histamines 	-168.0
+anosmia resolved 	-112.0
+sore throat resolved 	-112.0
+recurrent fever 	-112.0
+headache persisted 	-112.0
+mucoid diarrhea 	-112.0
+nausea 	-112.0
+generalized abdominal pain 	-112.0
+ciprofloxacin 	-112.0
+oral rehydration solution 	-112.0
+mild to moderate sub-sternal chest pain 	-84.0
+exertional dyspnea 	-84.0
+easy fatigability 	-84.0
+insomnia 	-84.0
+poly-arthritis 	-84.0
+naproxen 	-84.0
+fatigue worsened 	-42.0
+insomnia worsened 	-42.0
+joint pains worsened 	-42.0
+breathlessness worsened 	-42.0
+22 years old 	0.0
+female 	0.0
+health care worker 	0.0
+overweight 	0.0
+mild breathlessness on exertion 	0.0
+afebrile 	0.0
+normal cardiovascular examination 	0.0
+normal pulmonary examination 	0.0
+normal systemic examination 	0.0
+normal complete blood count 	0.0
+normal serum electrolytes 	0.0
+normal urea 	0.0
+normal creatinine 	0.0
+normal chest x-ray 	0.0
+normal electrocardiography 	0.0
+ivermectin 	0.0
+aspirin 	0.0
+multivitamins 	0.0
+dexamethasone 	0.0
+incentive spirometry 	0.0
+erythrocyte sedimentation rate elevated 	0.0
+urea elevated 	0.0
+Cr elevated 	0.0
+exertional dyspnea improved 	0.0
+fatigue improved 	0.0
+joint pain improved 	0.0
+neck pain 	0.0
+abdominal bloating 	0.0
+excessive flatus 	0.0
+headache 	0.0
+topiramate 	0.0
+propranolol 	0.0
+symptoms waxed and waned 	504.0
+easy fatigability 	504.0
+exertional dyspnea 	504.0
+nasopharyngeal swab negative for SARS-CoV-2 	728.0
+Note: The time is calculated based on the information provided in the case report. The admission event has a timestamp of 0. Events that occurred before admission have negative timestamps, and events that occurred after admission have positive timestamps. The timestamps are approximate and based on the information provided in the case report.	nan

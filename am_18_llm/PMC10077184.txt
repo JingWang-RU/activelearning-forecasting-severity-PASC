@@ -1,0 +1,72 @@
+anxiety 	-672.0
+depression 	-672.0
+insomnia 	-672.0
+mild cognitive impairment 	-672.0
+fever 	-672.0
+cough 	-672.0
+off-white sputum 	-672.0
+no dyspnea 	-672.0
+no chest pain 	-672.0
+no loss of smell or taste 	-672.0
+COVID-19 diagnosis 	-672.0
+nasopharyngeal specimens tested for SARS-CoV-2 	-672.0
+real-time reverse-transcriptase-polymerase-chain-reaction (RT-PCR) 	-672.0
+dextromethorphan 90 mg/d 	-672.0
+acetaminophen 1500 mg/d 	-672.0
+levocetirizine 5 mg/d 	-672.0
+benzonatate 300 mg/d 	-672.0
+fenoterol 2.5 mg/d 	-672.0
+isolation at home for 7 days 	-672.0
+tested negative in an antigen self-test for SARS-CoV-2 	-336.0
+returned to work 	-336.0
+fever subsided 	-240.0
+mild anxiety 	-240.0
+mild depression 	-240.0
+mild insomnia 	-240.0
+mild brain fog 	-240.0
+30 years old 	0.0
+female 	0.0
+admitted to the psychiatric clinic 	0.0
+anxiety persisted 	0.0
+depression persisted 	0.0
+insomnia persisted 	0.0
+mild cognitive impairment persisted 	0.0
+easily fatigued 	0.0
+making mistakes at work 	0.0
+visited a family clinic 	0.0
+Long COVID suspected 	0.0
+referred to the long-COVID clinic 	0.0
+biochemistry blood exam 	0.0
+chest X-ray 	0.0
+electrocardiography 	0.0
+normal results 	0.0
+depressed mood 	0.0
+lack of energy 	0.0
+loss of interest in activities 	0.0
+feelings of worthlessness 	0.0
+psychomotor retardation 	0.0
+Depressive disorder diagnosed 	0.0
+Beck Depression Inventory (BDI) 	0.0
+Hamilton depression rating scale (HAMD) 	0.0
+Beck Anxiety Inventory (BAI) 	0.0
+Pittsburgh Sleep Quality Index (PSQI) 	0.0
+Wechsler Memory Scale (WMS) 	0.0
+accelerated TBS treatment started 	0.0
+TBS sessions 	24.0
+improved symptoms 	120.0
+BAI score improved 	120.0
+BDI score improved 	120.0
+HAMD score improved 	120.0
+PSQI score improved 	120.0
+WMS score improved 	120.0
+adverse effects of TBS 	120.0
+dizziness 	120.0
+headache 	120.0
+transient adverse effects 	120.0
+no medications or psychotherapy after TBS 	120.0
+3-month follow-up 	744.0
+clinical improvement continued 	744.0
+BAI score 	744.0
+BDI score 	744.0
+HAMD score 	744.0
+PSQI score 	744.0

@@ -1,0 +1,54 @@
+anosmia 	-2160.0
+ageusia 	-2160.0
+COVID-19 infection 	-2160.0
+nausea 	-2160.0
+vomiting 	-2160.0
+inability to tolerate oral intake 	-2160.0
+weight loss 43 lb 	-2160.0
+unsteadiness in gait 	-2160.0
+18 years old 	0.0
+female 	0.0
+admitted to the hospital 	0.0
+vision loss 	0.0
+bilateral papilledema 	0.0
+nystagmus 	0.0
+ataxia 	0.0
+blunt affect 	0.0
+slow responses to conversation 	0.0
+reddened lips 	0.0
+normal mentation 	0.0
+visual acuity in right eye (OD) 20/400 	0.0
+visual acuity in left eye (OS) count fingers 3 ft away 	0.0
+slow nystagmus 	0.0
+diffusely blurred margins 	0.0
+grade III edema 	0.0
+large inferior disc hemorrhage 	0.0
+grade II edema 	0.0
+no primary position nystagmus 	0.0
+MRI of the brain 	0.0
+magnetic resonance venography of the brain 	0.0
+LP with an initial OP of 35 cm H2O 	0.0
+cerebrospinal fluid (CSF) analysis 	0.0
+clinical diagnosis of IIH 	0.0
+acetazolamide 	0.0
+denies history of headaches 	0.0
+lumbar drain 	0.0
+thiamine level 	0.0
+IV thiamine 200 mg every 12 hours 	0.0
+thiamine level 34 nmol/L 	0.0
+vision became worse 	18.0
+light perception bilaterally 	18.0
+repeat LP 	18.0
+OP of 15 cm H2O 	18.0
+transferred to our facility 	18.0
+vision improved 	48.0
+OD 20/50 	48.0
+OS 20/40 	48.0
+minimal residual nystagmus 	48.0
+ataxia 	48.0
+blunt affect improved 	48.0
+lumbar drain removed 	48.0
+acetazolamide discontinued 	48.0
+discharged 	96.0
+thiamine level 184 nmol/L 	4320.0
+no evidence of papilledema or optic disc hemorrhages 	4320.0
